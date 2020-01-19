@@ -78,7 +78,7 @@ function genPassword(){
             document.getElementById("textField").innerText=endResult;
         }
     } else {
-        alert("Lenght must be Number not a letter");
+        alert("Length must be Number not a letter");
     }
 }
 function copyPassword(){
